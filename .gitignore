@@ -1,0 +1,17 @@
+# dependencies
+/node_modules
+
+# production
+/build
+
+# .env file
+.env
+
+# IDE files
+*.iml
+*.idea
+.vscode
+
+# OS generated files
+.DS_Store
+Thumbs.db
